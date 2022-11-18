@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+
+.container {
+  padding: 70px 80px 90px 80px;
+}
+
+@media (min-width: 600px)
+{
+  .container {
+    padding: 70px 80px 90px 80px;
+  }
+}
